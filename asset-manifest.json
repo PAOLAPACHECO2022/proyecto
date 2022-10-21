@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PAOLAPACHECO2022/proyecto.git/static/css/main.073c9b0a.css",
+    "main.js": "/PAOLAPACHECO2022/proyecto.git/static/js/main.ee984a6a.js",
+    "static/js/787.319676fc.chunk.js": "/PAOLAPACHECO2022/proyecto.git/static/js/787.319676fc.chunk.js",
+    "static/media/logo.svg": "/PAOLAPACHECO2022/proyecto.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PAOLAPACHECO2022/proyecto.git/index.html",
+    "main.073c9b0a.css.map": "/PAOLAPACHECO2022/proyecto.git/static/css/main.073c9b0a.css.map",
+    "main.ee984a6a.js.map": "/PAOLAPACHECO2022/proyecto.git/static/js/main.ee984a6a.js.map",
+    "787.319676fc.chunk.js.map": "/PAOLAPACHECO2022/proyecto.git/static/js/787.319676fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee984a6a.js"
+  ]
+}
